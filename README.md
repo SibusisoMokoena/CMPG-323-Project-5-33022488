@@ -6,7 +6,7 @@
 
 The goal of this project is for me to create a reporting system for NWU Tech Trends that illustrates how using Power BI can save time for each project and customer. To track these advantages and give stakeholders insight into the time saved on different projects and clients, the company needs a reporting dashboard. The information will facilitate decision-making, increase output, and point up opportunities for development.
 
-**This project's main objective is to produce a Power BI report that shows important metrics related to client and project time savings. This report will allow stakeholders to:**
+$\textcolor{red}{\textsf{**This project's main objective is to produce a Power BI report that shows important metrics related to client and project time savings. This report will allow stakeholders to:**}}$
 
 - Monitor the progress of different initiatives.
 - Calculate and evaluate each project's efficiency improvements in terms of time saved.
