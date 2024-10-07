@@ -28,6 +28,7 @@ The data will be secured in the Power BI workspace, ensuring that only authorize
 
 # References :
  
+Readme.md picture attachment , (Accessed : Pininterest) (2024), Available at : https://za.pinterest.com/pin/732960908138111633/ .
 1. Microsoft. (2023) Install Power BI Desktop. Available at: 
 https://powerbi.microsoft.com/en-us/desktop/ (Accessed: 3 October 2024). 
 2. GitHub. (2023) Clone a repository. Available at: 
