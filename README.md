@@ -25,3 +25,7 @@ The goal of this project is for me to create a reporting system for NWU Tech Tre
 # Source Control and Usability
 
 The data will be secured in the Power BI workspace, ensuring that only authorized users can view or manipulate the report.The report interface will be user-friendly, requiring minimal training for stakeholders to navigate and extract meaningful insights.
+
+# References
+
+
