@@ -27,5 +27,78 @@ The goal of this project is for me to create a reporting system for NWU Tech Tre
 The data will be secured in the Power BI workspace, ensuring that only authorized users can view or manipulate the report.The report interface will be user-friendly, requiring minimal training for stakeholders to navigate and extract meaningful insights.
 
 # References
-
+ 
+1. Microsoft. (2023) Install Power BI Desktop. Available at: 
+https://powerbi.microsoft.com/en-us/desktop/ (Accessed: 3 October 2024). 
+2. GitHub. (2023) Clone a repository. Available at: 
+https://docs.github.com/en/repositories/creating-and-managing
+repositories/cloning-a-repository (Accessed: 3 October 2024). 
+3. Microsoft. (2023) Create a Power BI report. Available at: 
+https://docs.microsoft.com/en-us/power-bi/create-reports (Accessed: 3 October 
+2024). 
+4. Microsoft. (2023) Configure data sources in Power BI. Available at: 
+https://docs.microsoft.com/en-us/power-bi/connect-data-service (Accessed: 5 
+October 2024). 
+5. Microsoft. (2023) Secure your data in Power BI. Available at: 
+https://docs.microsoft.com/en-us/power-bi/admin/service-security (Accessed: 5 
+October 2024). 
+6. Microsoft. (2023) Data types in Power BI. Available at: 
+https://docs.microsoft.com/en-us/power-bi/transform-model/data-types (Accessed: 
+5 October 2024). 
+7. Microsoft. (2023) Create calculated columns in Power BI. Available at: 
+https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-calculated
+columns (Accessed: 5 October 2024). 
+8. Microsoft. (2023) Create measures in Power BI. Available at: 
+https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-measures 
+(Accessed: 5 October 2024). 
+9. Microsoft. (2023) Add filters to reports in Power BI. Available at: 
+https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-filters 
+(Accessed: 5 October 2024). 
+10. Microsoft. (2023) Use AI in Power BI. Available at: https://docs.microsoft.com/en
+us/power-bi/ai/overview (Accessed: 6 October 2024). 
+11. GitHub. (2023) Create a README file. Available at: 
+https://docs.github.com/en/repositories/managing-your-repositorys-settings-and
+features/customizing-your-repository/about-readmes (Accessed: 3 October 2024). 
+12. Microsoft. (2023) High-level metrics in Power BI. Available at: 
+https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-high
+level-metrics (Accessed: 6 October 2024). 
+13. Microsoft. (2023) Client monitoring in Power BI. Available at: 
+https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-client
+monitoring (Accessed: 6 October 2024). 
+14. Microsoft. (2023) Project monitoring in Power BI. Available at: 
+https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-project
+monitoring (Accessed: 6 October 2024). 
+15. Microsoft. (2023) Data cleaning in Power BI. Available at: 
+https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-data
+cleaning (Accessed: 5 October 2024). 
+16. Microsoft. (2023) Data mapping in Power BI. Available at: 
+https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-data
+mapping (Accessed: 6 October 2024). 
+17. Microsoft. (2023) Create visualizations in Power BI. Available at: 
+https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types 
+(Accessed: 6 October 2024). 
+18. Microsoft. (2023) Monitor savings per client in Power BI. Available at: 
+https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-savings
+per-client (Accessed: 6 October 2024). 
+19. Microsoft. (2023) Monitor savings over time in Power BI. Available at: 
+https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-savings
+over-time (Accessed: 6 October 2024). 
+20. Microsoft. (2023) Monitor projects in Power BI. Available at: 
+https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-projects 
+(Accessed: 6 October 2024). 
+21. Microsoft. (2023) Add filters for projects in Power BI. Available at: 
+https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-filters
+projects (Accessed: 6 October 2024). 
+22. Microsoft. (2023) Add filters for clients in Power BI. Available at: 
+https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-filters
+clients (Accessed: 6 October 2024). 
+23. Microsoft. (2023) Add filters for date range in Power BI. Available at: 
+https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-filters
+date-range (Accessed: 6 October 2024). 
+24. Microsoft. (2023) Enhance analytics with AI in Power BI. Available at: 
+https://docs.microsoft.com/en-us/power-bi/ai/enhance-analytics (Accessed: 6 
+October 2024). 
+25. Microsoft. (2023) Publish a Power BI report. Available at: 
+https://docs.microsoft.com/en-us/power-bi/service-publish (Accessed: 6 October 
+2024).
 
